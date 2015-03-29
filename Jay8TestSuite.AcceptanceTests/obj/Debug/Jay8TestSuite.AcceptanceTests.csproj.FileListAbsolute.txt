@@ -1,0 +1,15 @@
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\html\NoUniqueClasses.html
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\Jay8TestSuite.AcceptanceTests.dll.config
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\Jay8TestSuite.AcceptanceTests.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\Jay8TestSuite.AcceptanceTests.pdb
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\obj\Debug\Jay8TestSuite.AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\obj\Debug\Jay8TestSuite.AcceptanceTests.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\obj\Debug\Jay8TestSuite.AcceptanceTests.pdb
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\Castle.Core.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\TestStack.White.dll
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\Castle.Core.xml
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\TestStack.White.pdb
+C:\Dev\Jay8TestSuite\Jay8TestSuite.AcceptanceTests\bin\Debug\TestStack.White.xml

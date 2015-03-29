@@ -1,0 +1,21 @@
+﻿<Window xmlns:IE="clr-namespace:Jay8TestSuite.IE"  x:Class="Jay8TestSuite.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <WebBrowser x:Name="browser" Grid.Row="0" />
+        <IE:IEBrowser Grid.Row="0"/>
+        <StackPanel Grid.Row="1" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="selectorButton" Click="selectorButton_Click"/>
+            </StackPanel>
+            <ScrollViewer>
+                <TextBlock x:Name="ElementTextBlock"/>
+            </ScrollViewer>
+        </StackPanel>  
+    </Grid>
+</Window>

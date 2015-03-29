@@ -1,0 +1,15 @@
+C:\Dev\Jay8TestSuite\Jay8TestSuite\bin\Debug\Jay8TestSuite.exe.config
+C:\Dev\Jay8TestSuite\Jay8TestSuite\bin\Debug\Jay8TestSuite.exe
+C:\Dev\Jay8TestSuite\Jay8TestSuite\bin\Debug\Jay8TestSuite.pdb
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.csprojResolveAssemblyReference.cache
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\MainWindow.baml
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\MainWindow.g.cs
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\App.g.cs
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite_MarkupCompile.cache
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.g.resources
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.Properties.Resources.resources
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.csproj.GenerateResource.Cache
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.exe
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\Jay8TestSuite.pdb
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\IE\IEBrowser.baml
+C:\Dev\Jay8TestSuite\Jay8TestSuite\obj\Debug\IE\IEBrowser.g.cs
